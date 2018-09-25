@@ -1,6 +1,6 @@
-# serpinski
+# Sierpinski
 
-This is the serpinski project.
+This is the Sierpinski project.
 
 ## Development mode
 
